@@ -1,25 +1,25 @@
 <header>
 	<!-- Fixed navbar -->
-	<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-		<a class="navbar-brand" href="/">MilleFuille</a>
-		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button>
-		<div class="collapse navbar-collapse" id="navbarCollapse">
-			<ul class="navbar-nav mr-auto">
-				<li class="nav-item active">
-					<span class="nav-link">{{ page.title }}</span>
-				</li>
+	<nav class="navbar navbar-dark fixed-top bg-dark">
+		{% if page.id == 'recipe' %}
+			<button class="navbar-toggler" type="button" data-toggle="modal" data-target="#expRecipe">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+		{% endif %}
+		<a class="navbar-brand {% if page.id == 'recipe' %}mille{% endif %}" href="/">MilleFuille</a>
+		<ul class="navbar-nav mr-auto">
+			<li class="nav-item active">
+				<span class="nav-link">{{ page.title }}</span>
+			</li>
 
-				{% unless page.title == 'Home' %}
-					{% for item in site.data.navigation %}
-						<li class="nav-item">
-							<a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
-						</li>
-					{% endfor %}
-				{% endunless %}
+			{% unless page.title == 'Home' %}
+				{% for item in site.data.navigation %}
+					<li class="nav-item">
+						<a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
+					</li>
+				{% endfor %}
+			{% endunless %}
 
-			</ul>
-		</div>
+		</ul>
 	</nav>
 </header>
