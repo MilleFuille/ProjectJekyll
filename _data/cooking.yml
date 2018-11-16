@@ -1,0 +1,3639 @@
+###Luxury Cooking Station
+- url: https://i.imgur.com/fu3l0AK.jpg
+  id: 25
+  name: Rookie Meat Steak
+  tool: 1
+  ingredients: |
+    Any Meat
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: '-'
+  matk: '-'
+  def: 8
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/FZ888uA.jpg
+  id: 50
+  name: Rookie Fried Dish
+  tool: 1
+  ingredients: |
+    Any Vegetable
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: '-'
+  matk: '-'
+  def: '-'
+  mdef: 8
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/cXGdSRx.jpg
+  id: 75
+  name: Rookie Fish Steak
+  tool: 1
+  ingredients: |
+    Any Fish
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: 8
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/ZO69DIP.jpg
+  id: 100
+  name: Rookie Jam
+  tool: 1
+  ingredients: |
+    Any Fruit
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: '-'
+  matk: 8
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/hCnh6pZ.jpg
+  id: 125
+  name: Traveler Bacon
+  tool: 1
+  ingredients: |
+    Lunatic Meat
+    Salt
+  duration: 144
+  special: '-'
+  speciald: '-'
+  dishp: 2000
+  dissp: 200
+  maxhp: 90
+  maxsp: 9
+  atk: '-'
+  matk: '-'
+  def: 12
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/dwIBC5R.jpg
+  id: 150
+  name: Seafood Bowl
+  tool: 1
+  ingredients: |
+    Vadon Meat
+    Flour
+  duration: 144
+  special: '-'
+  speciald: '-'
+  dishp: 2000
+  dissp: 200
+  maxhp: 90
+  maxsp: 9
+  atk: 12
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/eeMb18n.jpg
+  id: 175
+  name: Healthy Salad
+  tool: 1
+  ingredients: |
+    West Gate Tomato
+    Salt
+  duration: 144
+  special: '-'
+  speciald: '-'
+  dishp: 2000
+  dissp: 200
+  maxhp: 90
+  maxsp: 9
+  atk: '-'
+  matk: 12
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/YgSaQlI.jpg
+  id: 200
+  name: Delicious Steak
+  tool: 1
+  ingredients: |
+    Eggshell Chick
+    Desert Wolf Meat
+    Mountain Celery
+  duration: 192
+  special: Immunity 2
+  speciald: Immunity 2
+  dishp: 3000
+  dissp: 300
+  maxhp: 120
+  maxsp: 12
+  atk: '-'
+  matk: '-'
+  def: 16
+  mdef: 16
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/VG0vTuY.jpg
+  id: 225
+  name: Seafood Rice
+  tool: 1
+  ingredients: |
+    Inkfish Tentacle
+    Marina Meat
+    Meat
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 3000
+  dissp: 300
+  maxhp: 120
+  maxsp: 12
+  atk: 16
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: 1.0%
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/HEQyZF1.jpg
+  id: 250
+  name: Vegetable Meal
+  tool: 1
+  ingredients: |
+    Magic Spore
+    Mountain Celery
+    Milk
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 3000
+  dissp: 300
+  maxhp: 120
+  maxsp: 12
+  atk: '-'
+  matk: 16
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: -0.75%
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/F6AYs8T.jpg
+  id: 275
+  name: Flame God History
+  tool: 1
+  ingredients: |
+    Savage Meat
+    Desert Wolf Meat
+    Chili
+  duration: 192
+  special: Immunity 3
+  speciald: Immunity 3
+  dishp: 4000
+  dissp: 400
+  maxhp: 180
+  maxsp: 18
+  atk: '-'
+  matk: '-'
+  def: 20
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/R7juMyI.jpg
+  id: 300
+  name: East Seafood Kebab
+  tool: 1
+  ingredients: |
+    Marc Meat
+    Inkfish Tentacle
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 4000
+  dissp: 400
+  maxhp: 180
+  maxsp: 18
+  atk: 20
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: 1.5%
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/Qrdttda.jpg
+  id: 325
+  name: Spicy Branch Vegetable
+  tool: 1
+  ingredients: |
+    Bamboo Eggplant
+    South Gate Carrot
+    Chili
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 4000
+  dissp: 400
+  maxhp: 180
+  maxsp: 18
+  atk: '-'
+  matk: 20
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: -1.0%
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/XN1WDTd.jpg
+  id: 350
+  name: Yummy Steak
+  tool: 1
+  ingredients: |
+    Lunatic Meat
+    Bamboo Eggplant
+    Apple Vinegar
+  duration: 192
+  special: Immunity 3
+  speciald: Immunity 3
+  dishp: 5000
+  dissp: 500
+  maxhp: 216
+  maxsp: 21
+  atk: '-'
+  matk: '-'
+  def: 24
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/LmOmv4N.jpg
+  id: 375
+  name: Yummy Fish Steak
+  tool: 1
+  ingredients: |
+    Marc Meat
+    Marina Meat
+    Apple Vinegar
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 5000
+  dissp: 500
+  maxhp: 216
+  maxsp: 21
+  atk: 24
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: 1.7500000000000002%
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/kyPan3D.jpg
+  id: 400
+  name: Yummy Salad
+  tool: 1
+  ingredients: |
+    Bamboo Eggplant
+    West Gate Tomato
+    Chili
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 5000
+  dissp: 500
+  maxhp: 216
+  maxsp: 21
+  atk: '-'
+  matk: 24
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: -1.25%
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/AWlfll8.jpg
+  id: 425
+  name: Fantasy Steak
+  tool: 1
+  ingredients: |
+    Eggshell Chick
+    Rocker Leg Meat
+    Sugar
+    Salt
+  duration: 208
+  special: Immunity 4
+  speciald: Immunity 4
+  dishp: 6000
+  dissp: 600
+  maxhp: 300
+  maxsp: 30
+  atk: '-'
+  matk: '-'
+  def: 30
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/mjo3F1f.jpg
+  id: 450
+  name: Fantasy Seafood Kebab
+  tool: 1
+  ingredients: |
+    Marina Meat
+    Vadon Meat
+    Salt
+    Sugar
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 6000
+  dissp: 600
+  maxhp: 300
+  maxsp: 30
+  atk: 30
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: 2.0%
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/5eCDrLr.jpg
+  id: 475
+  name: Fantasy Salad
+  tool: 1
+  ingredients: |
+    Mountain Celery
+    South Gate Carrot
+    Salt
+    Milk
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 6000
+  dissp: 600
+  maxhp: 300
+  maxsp: 30
+  atk: '-'
+  matk: 30
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: -1.5%
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/7bDeoWJ.jpg
+  id: 500
+  name: Geffen Steak
+  tool: 1
+  ingredients: |
+    Desert Wolf Meat
+    Eggshell Chick
+    Chili
+    Flour
+  duration: 208
+  special: Immunity 4
+  speciald: Immunity 4
+  dishp: 7000
+  dissp: 700
+  maxhp: 360
+  maxsp: 36
+  atk: '-'
+  matk: '-'
+  def: 32
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/Ayd2SkD.jpg
+  id: 525
+  name: Hydra
+  tool: 1
+  ingredients: |
+    Marina Meat
+    Hydra MEat
+    Chili
+    Vanilla
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 7000
+  dissp: 700
+  maxhp: 360
+  maxsp: 36
+  atk: 32
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: 2.5%
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/SzZlodh.jpg
+  id: 550
+  name: Forest Treasure
+  tool: 1
+  ingredients: |
+    Mountain Celery
+    South Gate Carrot
+    Sugar
+    Chili
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 7000
+  dissp: 700
+  maxhp: 360
+  maxsp: 36
+  atk: '-'
+  matk: 32
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: -1.7500000000000002%
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/7OGT66K.jpg
+  id: 575
+  name: Desert Steak
+  tool: 1
+  ingredients: |
+    Savage Meat
+    Desert Wolf Meat
+    Apple Vinegar
+    Cheese
+  duration: 208
+  special: Immunity 4
+  speciald: Immunity 4
+  dishp: 8000
+  dissp: 800
+  maxhp: 420
+  maxsp: 42
+  atk: '-'
+  matk: '-'
+  def: 36
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/HL67xzb.jpg
+  id: 600
+  name: Fishman's Soul
+  tool: 1
+  ingredients: |
+    Marc Meat
+    Marina Meat
+    Apple Vinegar
+    Sauce
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 8000
+  dissp: 800
+  maxhp: 420
+  maxsp: 42
+  atk: 36
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: 3.0%
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/jlYM7qM.jpg
+  id: 625
+  name: Sweet Coriander
+  tool: 1
+  ingredients: |
+    Bamboo EggPlant
+    Mountain Celery
+    Sauce
+    Cream
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 8000
+  dissp: 800
+  maxhp: 420
+  maxsp: 42
+  atk: '-'
+  matk: 36
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: -2.0%
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/uP6AxjU.jpg
+  id: 650
+  name: Prontera Royal Steak
+  tool: 1
+  ingredients: |
+    Savage Meat
+    Desert Wolf Meat
+    Lunatic Meat
+    Sauce
+    Cream
+  duration: 240
+  special: Immunity 4
+  speciald: Immunity 4
+  dishp: 9000
+  dissp: 900
+  maxhp: 500
+  maxsp: 50
+  atk: '-'
+  matk: '-'
+  def: 38
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/pgvWBkd.jpg
+  id: 675
+  name: Prontera Royal Fish Steak
+  tool: 1
+  ingredients: |
+    Marc Meat
+    Inkfish Tentacle
+    Hydra Meat
+    Cheese
+    Apple Vinegar
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 9000
+  dissp: 900
+  maxhp: 500
+  maxsp: 50
+  atk: 38
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: 3.25%
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/Z10NxPu.jpg
+  id: 700
+  name: Prontera Royal Salad
+  tool: 1
+  ingredients: |
+    Bamboo EggPlant
+    Magic Spore
+    South Gate Carrot
+    Apple Vinegar
+    Sauce
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 9000
+  dissp: 900
+  maxhp: 500
+  maxsp: 50
+  atk: '-'
+  matk: '-'
+  def: '-'
+  mdef: 38
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/EnoNIBy.jpg
+  id: 725
+  name: Original Will Steak
+  tool: 1
+  ingredients: |
+    Savage Meat
+    Muka Meat
+    Desert Wolf Meat
+    Eggshell Chick
+    Miso Powder
+  duration: 240
+  special: Immunity 4
+  speciald: Immunity 4
+  dishp: 10000
+  dissp: 1000
+  maxhp: 600
+  maxsp: 60
+  atk: '-'
+  matk: '-'
+  def: 40
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/apwEkqa.jpg
+  id: 750
+  name: Original Will Fish Steak
+  tool: 1
+  ingredients: |
+    Marc Meat
+    Mutated Fish
+    Marina Meat
+    Inkfish Tentacle
+    Miso Powder
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 10000
+  dissp: 1000
+  maxhp: 600
+  maxsp: 60
+  atk: 40
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: 3.5000000000000004%
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/R6Ep4kB.jpg
+  id: 775
+  name: Original Will Salad
+  tool: 1
+  ingredients: |
+    Bamboo EggPlant
+    Gold Pumpkin
+    Magic Spore
+    Mountain Celery
+    Miso Powder
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 10000
+  dissp: 1000
+  maxhp: 600
+  maxsp: 60
+  atk: '-'
+  matk: '-'
+  def: '-'
+  mdef: 40
+  aspd: '-'
+  mspd: '-'
+  cd: -2.5%
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+###Adventurous BBQ Station
+- url: https://i.imgur.com/QoOF1oz.jpg
+  id: 2525
+  name: Rookie Meat Kebab
+  tool: 2
+  ingredients: |
+    Any Meat
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: '-'
+  matk: '-'
+  def: 8
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/3LwYCsR.jpg
+  id: 2550
+  name: Rookie Vegetable Kebab
+  tool: 2
+  ingredients: |
+    Any Vegetable
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: '-'
+  matk: '-'
+  def: '-'
+  mdef: 8
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/3Oe09jQ.jpg
+  id: 2575
+  name: Rookie Seafood Kebab
+  tool: 2
+  ingredients: |
+    Any Fish
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: 8
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/knOShzl.jpg
+  id: 2600
+  name: Rookie Fruit Slices
+  tool: 2
+  ingredients: |
+    Any Fruit
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 85
+  maxsp: 6
+  atk: '-'
+  matk: 8
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/OjWZtya.jpg
+  id: 2625
+  name: Popular Kebab
+  tool: 2
+  ingredients: |
+    Rocker Leg Meat
+    Salt
+  duration: 144
+  special: '-'
+  speciald: '-'
+  dishp: 2000
+  dissp: 200
+  maxhp: 100
+  maxsp: 9
+  atk: '-'
+  matk: '-'
+  def: 12
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/miOVQPj.jpg
+  id: 2650
+  name: Island Kebab
+  tool: 2
+  ingredients: |
+    Hydra Meat
+    Flour
+  duration: 144
+  special: '-'
+  speciald: '-'
+  dishp: 2000
+  dissp: 200
+  maxhp: 90
+  maxsp: 9
+  atk: 12
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/GFgy0ka.jpg
+  id: 2675
+  name: MSG
+  tool: 2
+  ingredients: |
+    South Gate Carrot
+    Salt
+  duration: 144
+  special: '-'
+  speciald: '-'
+  dishp: 2000
+  dissp: 200
+  maxhp: 90
+  maxsp: 9
+  atk: '-'
+  matk: '-'
+  def: '-'
+  mdef: 12
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/lwM9XyJ.jpg
+  id: 2700
+  name: Starving Kebab
+  tool: 2
+  ingredients: |
+    Desert Wolf Meat
+    Rocker Leg Meat
+    Magic Spore
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 3000
+  dissp: 300
+  maxhp: 200
+  maxsp: 12
+  atk: '-'
+  matk: '-'
+  def: 16
+  mdef: 16
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/qQiZ8eR.jpg
+  id: 2725
+  name: Izulde Pride
+  tool: 2
+  ingredients: |
+    Marina Meat
+    Inkfish Tentacle
+    Vadon Meat
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 3000
+  dissp: 300
+  maxhp: 120
+  maxsp: 12
+  atk: 16
+  matk: '-'
+  def: 16
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: 0.75%
+
+- url: https://i.imgur.com/4UoQsqW.jpg
+  id: 2750
+  name: Farmer's Smile
+  tool: 2
+  ingredients: |
+    Magic Spore
+    Poring Apple
+    Sugar
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 3000
+  dissp: 300
+  maxhp: 120
+  maxsp: 12
+  atk: '-'
+  matk: '-'
+  def: '-'
+  mdef: 16
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/oblGK46.jpg
+  id: 2775
+  name: Gold Kebab
+  tool: 2
+  ingredients: |
+    Muka Meat
+    Eggsheel Chick
+    Vanilla
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 4000
+  dissp: 400
+  maxhp: 300
+  maxsp: 18
+  atk: '-'
+  matk: '-'
+  def: 20
+  mdef: 20
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/s0cecPO.jpg
+  id: 2800
+  name: Superb Seafood Kebab
+  tool: 2
+  ingredients: |
+    Mutated Fish
+    Marina Meat
+    Chili
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 4000
+  dissp: 400
+  maxhp: 180
+  maxsp: 18
+  atk: 20
+  matk: '-'
+  def: 20
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: 1.0%
+
+- url: https://i.imgur.com/IOHxtY4.jpg
+  id: 2825
+  name: Flame Vegetable Kebab
+  tool: 2
+  ingredients: |
+    Gold Pumpkin
+    Magic Spore
+    Chili
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 4000
+  dissp: 400
+  maxhp: 180
+  maxsp: 18
+  atk: '-'
+  matk: '-'
+  def: '-'
+  mdef: 20
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/PDrQzv6.jpg
+  id: 2850
+  name: Yummy Kebab
+  tool: 2
+  ingredients: |
+    Muka Meat
+    Desert Wolf Meat
+    Apple Vinegar
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 5000
+  dissp: 500
+  maxhp: 360
+  maxsp: 21
+  atk: '-'
+  matk: '-'
+  def: 24
+  mdef: 24
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/ZUhWElX.jpg
+  id: 2875
+  name: Yummy Seafood Kebab
+  tool: 2
+  ingredients: |
+    Mutated Fish
+    Vadon Meat
+    Apple Vinegar
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 5000
+  dissp: 500
+  maxhp: 216
+  maxsp: 21
+  atk: 24
+  matk: '-'
+  def: 24
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: 1.25%
+
+- url: https://i.imgur.com/gRI612j.jpg
+  id: 2900
+  name: Yummy Vegetables
+  tool: 2
+  ingredients: |
+    Gold Pumpkin
+    South Gate Carrot
+    Apple Vinegar
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 5000
+  dissp: 500
+  maxhp: 216
+  maxsp: 21
+  atk: '-'
+  matk: 24
+  def: '-'
+  mdef: 24
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/qecLEFt.jpg
+  id: 2925
+  name: Magic Meat Kebab
+  tool: 2
+  ingredients: |
+    Lunatic Meat
+    Desert Wolf Meat
+    Poring Apple
+    Salt
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 6000
+  dissp: 600
+  maxhp: 500
+  maxsp: 30
+  atk: '-'
+  matk: 30
+  def: 30
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/UdPpIos.jpg
+  id: 2950
+  name: Magic Seafood Kebab
+  tool: 2
+  ingredients: |
+    Inkfish Tentacle
+    Hydra Meat
+    West Gate Tomato
+    Salt
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 6000
+  dissp: 600
+  maxhp: 300
+  maxsp: 30
+  atk: 30
+  matk: '-'
+  def: '-'
+  mdef: 30
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: 1.5%
+
+- url: https://i.imgur.com/aip5lRi.jpg
+  id: 2975
+  name: Magic Green BBQ
+  tool: 2
+  ingredients: |
+    Magic Spore
+    West Gate Tomato
+    Salt
+    Flour
+  duration: 208
+  special: Invicibility 1
+  speciald: Invicibility 1
+  dishp: 6000
+  dissp: 600
+  maxhp: 300
+  maxsp: 30
+  atk: '-'
+  matk: 30
+  def: '-'
+  mdef: 30
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/ImKLU0u.jpg
+  id: 3000
+  name: Gold Cross Kebab
+  tool: 2
+  ingredients: |
+    Eggshell Chick
+    Rocker Leg Meat
+    Vanilla
+    Chili
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 7000
+  dissp: 700
+  maxhp: 600
+  maxsp: 36
+  atk: '-'
+  matk: '-'
+  def: 32
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/D0RjrW3.jpg
+  id: 3025
+  name: Call from Ocean
+  tool: 2
+  ingredients: |
+    Inkfish Tentacle
+    Vadon Meat
+    Vanilla
+    Chili
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 7000
+  dissp: 700
+  maxhp: 360
+  maxsp: 36
+  atk: 32
+  matk: '-'
+  def: 32
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: 1.7500000000000002%
+
+- url: https://i.imgur.com/VHlJsMO.jpg
+  id: 3050
+  name: Payon's Vegetable Kebab
+  tool: 2
+  ingredients: |
+    Magic Spore
+    West Gate Tomato
+    Milk
+    Vanilla
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 7000
+  dissp: 700
+  maxhp: 360
+  maxsp: 36
+  atk: '-'
+  matk: 32
+  def: '-'
+  mdef: 32
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/wYS5PUr.jpg
+  id: 3075
+  name: Giant Pagoda
+  tool: 2
+  ingredients: |
+    Muka Meat
+    Eggshell Chick
+    Cream
+    Sauce
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 8000
+  dissp: 800
+  maxhp: 700
+  maxsp: 42
+  atk: '-'
+  matk: '-'
+  def: 36
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/MHPoXKf.jpg
+  id: 3100
+  name: Trubius Seafood Kebab
+  tool: 2
+  ingredients: |
+    Mutated Fish
+    Inkfish Tentacle
+    Apple Vinegar
+    Cheese
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 8000
+  dissp: 800
+  maxhp: 420
+  maxsp: 42
+  atk: 36
+  matk: '-'
+  def: 36
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: 2.0%
+
+- url: https://i.imgur.com/gDN5LPj.jpg
+  id: 3125
+  name: Sky Blade
+  tool: 2
+  ingredients: |
+    Gold Pumpkin
+    Magic Spore
+    Sauce
+    Apple Vinegar
+  duration: 208
+  special: Invicibility 1
+  speciald: Invicibility 1
+  dishp: 8000
+  dissp: 800
+  maxhp: 420
+  maxsp: 42
+  atk: '-'
+  matk: 36
+  def: '-'
+  mdef: 36
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/0kBofcO.jpg
+  id: 3150
+  name: Prontera Royal Kebab
+  tool: 2
+  ingredients: |
+    Muka Meat
+    Eggshell Chick
+    Rocker Leg Meat
+    Apple Vinegar
+    Sauce
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 9000
+  dissp: 900
+  maxhp: 830
+  maxsp: 50
+  atk: '-'
+  matk: '-'
+  def: 38
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/bAzTcdG.jpg
+  id: 3175
+  name: Prontera Royal Fish Kebab
+  tool: 2
+  ingredients: |
+    Mutated Fish
+    Marina Meat
+    Vadon Meat
+    Sauce
+    Apple Vinegar
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 9000
+  dissp: 900
+  maxhp: 500
+  maxsp: 50
+  atk: 38
+  matk: '-'
+  def: 38
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: 2.25%
+
+- url: https://i.imgur.com/BqXS7Ev.jpg
+  id: 3200
+  name: Prontera Royal Green BBQ
+  tool: 2
+  ingredients: |
+    Gold Pumpkin
+    Mountain Celery
+    West Gate Tomato
+    Cheese
+    Apple Vinegar
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 9000
+  dissp: 900
+  maxhp: 500
+  maxsp: 50
+  atk: '-'
+  matk: 38
+  def: '-'
+  mdef: 38
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/AnwxT3C.jpg
+  id: 3225
+  name: Original Will Kebab
+  tool: 2
+  ingredients: |
+    Savage Meat
+    Muka Meat
+    Desert Wolf Meat
+    Eggshell Chick
+    Miso Powder
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 10000
+  dissp: 1000
+  maxhp: 1000
+  maxsp: 60
+  atk: '-'
+  matk: '-'
+  def: 40
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/qOtIBsJ.jpg
+  id: 3250
+  name: Original Will Fish Kebab
+  tool: 2
+  ingredients: |
+    Mutated Fish
+    Marc Meat
+    Inkfish Tentacle
+    Marina Meat
+    Miso Powder
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 10000
+  dissp: 1000
+  maxhp: 600
+  maxsp: 60
+  atk: 40
+  matk: '-'
+  def: 40
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: 2.5%
+
+- url: https://i.imgur.com/fixxePz.jpg
+  id: 3275
+  name: Original Will Green BBQ
+  tool: 2
+  ingredients: |
+    Bamboo EggPlant
+    Gold Pumpkin
+    Magic Spore
+    Mountain Celery
+    Miso Powder
+  duration: 240
+  special: Invicibility 2
+  speciald: Invicibility 2
+  dishp: 10000
+  dissp: 1000
+  maxhp: 600
+  maxsp: 60
+  atk: '-'
+  matk: 40
+  def: '-'
+  mdef: 40
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+###Magical Pressure Cooking
+- url: https://i.imgur.com/RRXoNO9.jpg
+  id: 5025
+  name: Rookie Broth
+  tool: 3
+  ingredients: |
+    Any Meat
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: '-'
+  matk: '-'
+  def: 8
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/V4awCUy.jpg
+  id: 5050
+  name: Rookie Vegetable Soup
+  tool: 3
+  ingredients: |
+    Any Vegetable
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: '-'
+  matk: '-'
+  def: '-'
+  mdef: 8
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/EdWjecd.jpg
+  id: 5075
+  name: Rookie Fish Soup
+  tool: 3
+  ingredients: |
+    Any Fish
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: 8
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/Eieh10h.jpg
+  id: 5100
+  name: Rookie Black Tea
+  tool: 3
+  ingredients: |
+    Any Fruit
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: '-'
+  matk: 8
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/cS1H8fg.jpg
+  id: 5125
+  name: Fragrant Broth
+  tool: 3
+  ingredients: |
+    Lunatic Meat
+    Flour
+  duration: 144
+  special: '-'
+  speciald: '-'
+  dishp: 2000
+  dissp: 200
+  maxhp: 90
+  maxsp: 9
+  atk: '-'
+  matk: '-'
+  def: 21
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/hDSybQb.jpg
+  id: 5150
+  name: Fish Head Soup
+  tool: 3
+  ingredients: |
+    Hydra Meat
+    Salt
+  duration: 144
+  special: '-'
+  speciald: '-'
+  dishp: 2000
+  dissp: 200
+  maxhp: 90
+  maxsp: 9
+  atk: 12
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/3QlxEZA.jpg
+  id: 5175
+  name: Mum's Soup
+  tool: 3
+  ingredients: |
+    South Gate Carrot
+    West Gate Tomato
+  duration: 144
+  special: '-'
+  speciald: '-'
+  dishp: 2000
+  dissp: 200
+  maxhp: 90
+  maxsp: 9
+  atk: '-'
+  matk: 12
+  def: 12
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/EEBK5Iu.jpg
+  id: 5200
+  name: Music Box Broth
+  tool: 3
+  ingredients: |
+    Eggshell Chick
+    Rocker Leg Meat
+    Sugar
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 3000
+  dissp: 300
+  maxhp: 120
+  maxsp: 12
+  atk: '-'
+  matk: '-'
+  def: 16
+  mdef: '-'
+  aspd: 1.0%
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/K3MkVMK.jpg
+  id: 5225
+  name: Warm Current
+  tool: 3
+  ingredients: |
+    Inkfish Tentacle
+    Hydra Meat
+    Flour
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 3000
+  dissp: 300
+  maxhp: 120
+  maxsp: 12
+  atk: 16
+  matk: '-'
+  def: '-'
+  mdef: 16
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: 0.75%
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/lP46UpD.jpg
+  id: 5250
+  name: Delicious Vegetable Soup
+  tool: 3
+  ingredients: |
+    Mountain Celery
+    Magic Spore
+    Goblin Strawberry
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 3000
+  dissp: 300
+  maxhp: 120
+  maxsp: 12
+  atk: '-'
+  matk: 16
+  def: '-'
+  mdef: 16
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/zvPFi30.jpg
+  id: 5275
+  name: Satisfied
+  tool: 3
+  ingredients: |
+    Savage Meat
+    Muka Meat
+    Sugar
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 4000
+  dissp: 400
+  maxhp: 180
+  maxsp: 18
+  atk: '-'
+  matk: '-'
+  def: 20
+  mdef: '-'
+  aspd: 1.5%
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/lfzV5ve.jpg
+  id: 5300
+  name: Singing Soul
+  tool: 3
+  ingredients: |
+    Mutated Fish
+    Marc Meat
+    Milk
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 4000
+  dissp: 400
+  maxhp: 180
+  maxsp: 18
+  atk: 20
+  matk: '-'
+  def: '-'
+  mdef: 20
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: 1.0%
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/ke1j8Jj.jpg
+  id: 5325
+  name: Warm Oasis
+  tool: 3
+  ingredients: |
+    Bamboo EggPlant
+    Gold Pumpkin
+    Vanilla
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 4000
+  dissp: 400
+  maxhp: 180
+  maxsp: 18
+  atk: '-'
+  matk: 20
+  def: '-'
+  mdef: 20
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/dJ0otGy.jpg
+  id: 5350
+  name: Yummy Broth
+  tool: 3
+  ingredients: |
+    Bamboo EggPlant
+    Rocker Leg Meat
+    Cream
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 5000
+  dissp: 500
+  maxhp: 216
+  maxsp: 21
+  atk: '-'
+  matk: '-'
+  def: 24
+  mdef: '-'
+  aspd: 1.7500000000000002%
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/EiuPNEy.jpg
+  id: 5375
+  name: Yummy Seafood Soup
+  tool: 3
+  ingredients: |
+    Marc Meat
+    Mutated Fish
+    Apple Vinegar
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 5000
+  dissp: 500
+  maxhp: 216
+  maxsp: 21
+  atk: 24
+  matk: '-'
+  def: '-'
+  mdef: 24
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: 1.25%
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/ysPhM0n.jpg
+  id: 5400
+  name: Yummy Vegetable Soup
+  tool: 3
+  ingredients: |
+    Bamboo EggPlant
+    Gold Pumpkin
+    Cream
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 5000
+  dissp: 500
+  maxhp: 216
+  maxsp: 21
+  atk: '-'
+  matk: 24
+  def: '-'
+  mdef: 24
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/rc1akgU.jpg
+  id: 5425
+  name: Fantasy Broth
+  tool: 3
+  ingredients: |
+    Rocker Leg Meat
+    Eggshell Chick
+    South Gate Carrot
+    Milk
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 6000
+  dissp: 600
+  maxhp: 300
+  maxsp: 30
+  atk: '-'
+  matk: '-'
+  def: 30
+  mdef: 30
+  aspd: 2.0%
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/SKHvN0C.jpg
+  id: 5450
+  name: Fantasy Fish Soup
+  tool: 3
+  ingredients: |
+    Marina Meat
+    Hydra Meat
+    Milk
+    Salt
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 6000
+  dissp: 600
+  maxhp: 300
+  maxsp: 30
+  atk: 30
+  matk: '-'
+  def: 30
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: 1.5%
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/L8dmRyw.jpg
+  id: 5475
+  name: Fantasy Vegetable Soup
+  tool: 3
+  ingredients: |
+    West Gate Tomato
+    South Gate Carrot
+    Mountain Celery
+    Flour
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 6000
+  dissp: 600
+  maxhp: 300
+  maxsp: 30
+  atk: '-'
+  matk: 30
+  def: '-'
+  mdef: 30
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/wDyv9D1.jpg
+  id: 5500
+  name: Mother's Hug
+  tool: 3
+  ingredients: |
+    Desert Wolf Meat
+    Lunatic Meat
+    Chili
+    Vanilla
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 7000
+  dissp: 700
+  maxhp: 360
+  maxsp: 36
+  atk: '-'
+  matk: '-'
+  def: 32
+  mdef: 32
+  aspd: 2.5%
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/Gq9LhvI.jpg
+  id: 5525
+  name: Al De Baran Fish Soup
+  tool: 3
+  ingredients: |
+    Inkfish Tentacle
+    Marina Meat
+    Sugar
+    Vanilla
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 7000
+  dissp: 700
+  maxhp: 360
+  maxsp: 36
+  atk: 32
+  matk: '-'
+  def: '-'
+  mdef: 32
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: 1.7500000000000002%
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/LTSVexk.jpg
+  id: 5550
+  name: Princess's Black Tea
+  tool: 3
+  ingredients: |
+    Magic Spore
+    Mountain Celery
+    Vanilla
+    Salt
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 7000
+  dissp: 700
+  maxhp: 360
+  maxsp: 36
+  atk: '-'
+  matk: 32
+  def: '-'
+  mdef: 32
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/lHLCBBR.jpg
+  id: 5575
+  name: Brandy March
+  tool: 3
+  ingredients: |
+    Muka Meat
+    Savage Meat
+    Sauce
+    Apple Vinegar
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 8000
+  dissp: 800
+  maxhp: 420
+  maxsp: 42
+  atk: '-'
+  matk: '-'
+  def: 36
+  mdef: 36
+  aspd: 3.0%
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/Zt2z4Ed.jpg
+  id: 5600
+  name: Song for You
+  tool: 3
+  ingredients: |
+    Mutated Fish
+    Marc Meat
+    Cheese
+    Apple Vinegar
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 8000
+  dissp: 800
+  maxhp: 420
+  maxsp: 42
+  atk: 36
+  matk: '-'
+  def: '-'
+  mdef: 36
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: 2.0%
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/QXTW4rX.jpg
+  id: 5625
+  name: Sage in Dark
+  tool: 3
+  ingredients: |
+    Gold Pumpkin
+    Bamboo EggPlant
+    Milk
+    Cheese
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 8000
+  dissp: 800
+  maxhp: 420
+  maxsp: 42
+  atk: '-'
+  matk: 36
+  def: '-'
+  mdef: 36
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/ElqedDX.jpg
+  id: 5650
+  name: Prontera Royal Broth
+  tool: 3
+  ingredients: |
+    Savage Meat
+    Muka Meat
+    Lunatic Meat
+    Apple Vinegar
+    Cheese
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 9000
+  dissp: 900
+  maxhp: 500
+  maxsp: 50
+  atk: '-'
+  matk: '-'
+  def: 38
+  mdef: 38
+  aspd: 3.25%
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/FGz7Dfc.jpg
+  id: 5675
+  name: Prontera Royal Seafood Soup
+  tool: 3
+  ingredients: |
+    Marc Meat
+    Mutated Fish
+    Hydra Meat
+    Cheese
+    Sauce
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 9000
+  dissp: 900
+  maxhp: 500
+  maxsp: 50
+  atk: 38
+  matk: '-'
+  def: '-'
+  mdef: 38
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: 2.25%
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/vDXC6a0.jpg
+  id: 5700
+  name: Prontera Royal Vegetable Soup
+  tool: 3
+  ingredients: |
+    Bamboo EggPlant
+    Gold Pumpkin
+    South Gate Carrot
+    Cheese
+    Sauce
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 9000
+  dissp: 900
+  maxhp: 500
+  maxsp: 50
+  atk: '-'
+  matk: 38
+  def: '-'
+  mdef: 38
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/bEMoUjY.jpg
+  id: 5725
+  name: Original Will Broth
+  tool: 3
+  ingredients: |
+    Savage Meat
+    Muka Meat
+    Desert Wolf Meat
+    Eggshell Chick
+    Rainbow Powder
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 10000
+  dissp: 1000
+  maxhp: 600
+  maxsp: 60
+  atk: '-'
+  matk: '-'
+  def: 40
+  mdef: 40
+  aspd: 3.5000000000000004%
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/7x8CuuK.jpg
+  id: 5750
+  name: Original Will Seafood Soup
+  tool: 3
+  ingredients: |
+    Marc Meat
+    Mutated Fish
+    Marina Meat
+    Inkfish Tentacle
+    Rainbow Powder
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 10000
+  dissp: 1000
+  maxhp: 600
+  maxsp: 60
+  atk: 40
+  matk: '-'
+  def: '-'
+  mdef: 40
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: 2.5%
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/2ArojFd.jpg
+  id: 5775
+  name: Original Will Vegetable Soup
+  tool: 3
+  ingredients: |
+    Bamboo EggPlant
+    Gold Pumpkin
+    Magic Spore
+    Mountain Celery
+    Miso Powder
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 10000
+  dissp: 1000
+  maxhp: 600
+  maxsp: 60
+  atk: '-'
+  matk: 40
+  def: '-'
+  mdef: 40
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+###Romantic Cooling Station
+- url: https://i.imgur.com/OXl57pF.jpg
+  id: 7525
+  name: Rookie Sashimi
+  tool: 4
+  ingredients: |
+    Any Meat
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: '-'
+  matk: '-'
+  def: 8
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/5NpaCx1.jpg
+  id: 7550
+  name: Rookie Salad
+  tool: 4
+  ingredients: |
+    Any Vegetable
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: '-'
+  matk: '-'
+  def: '-'
+  mdef: 8
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/13kwGKk.jpg
+  id: 7575
+  name: Rookie Sushi
+  tool: 4
+  ingredients: |
+    Any Fish
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: 8
+  matk: '-'
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/OHYkXgH.jpg
+  id: 7600
+  name: Rookie Fruit Plate
+  tool: 4
+  ingredients: |
+    Any Fruit
+  duration: 96
+  special: '-'
+  speciald: '-'
+  dishp: 1500
+  dissp: 150
+  maxhp: 60
+  maxsp: 6
+  atk: '-'
+  matk: 8
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/KDhiOKk.jpg
+  id: 7625
+  name: Ray Dessert
+  tool: 4
+  ingredients: |
+    South Gate Carrot
+    Flour
+  duration: 144
+  special: '-'
+  speciald: '-'
+  dishp: 2000
+  dissp: 200
+  maxhp: 90
+  maxsp: 9
+  atk: '-'
+  matk: '-'
+  def: '-'
+  mdef: 12
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/j8KXW79.jpg
+  id: 7650
+  name: Ice Cream
+  tool: 4
+  ingredients: |
+    Poring Apple
+    Smokie Grape
+  duration: 144
+  special: '-'
+  speciald: '-'
+  dishp: 2000
+  dissp: 200
+  maxhp: 90
+  maxsp: 9
+  atk: '-'
+  matk: 12
+  def: 12
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/eKHKJxO.jpg
+  id: 7675
+  name: Smokie Cookie
+  tool: 4
+  ingredients: |
+    Smokie Grape
+    Flour
+    Salt
+  duration: 144
+  special: '-'
+  speciald: '-'
+  dishp: 2000
+  dissp: 200
+  maxhp: 90
+  maxsp: 9
+  atk: '-'
+  matk: 12
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/Tw1WSlU.jpg
+  id: 7700
+  name: Seaside Black Tea
+  tool: 4
+  ingredients: |
+    Yoyo Banana
+    Sugar
+    Milk
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 3000
+  dissp: 300
+  maxhp: 120
+  maxsp: 12
+  atk: '-'
+  matk: 16
+  def: 16
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: 0.75%
+  mpen: 0.75%
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/4DF1heA.jpg
+  id: 7725
+  name: Cheese Cake
+  tool: 4
+  ingredients: |
+    Goblin Strawberry
+    Milk
+    Flour
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 3000
+  dissp: 300
+  maxhp: 120
+  maxsp: 12
+  atk: '-'
+  matk: 16
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: 0.75%
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/w2nNBAc.jpg
+  id: 7750
+  name: Poring Parfait
+  tool: 4
+  ingredients: |
+    Smokie Grape
+    Poring Apple
+    Goblin Strawberry
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 3000
+  dissp: 300
+  maxhp: 120
+  maxsp: 12
+  atk: 16
+  matk: 16
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: 0.75%
+  pvp: '-'
+
+- url: https://i.imgur.com/vxgArXp.jpg
+  id: 7775
+  name: Duke Juice
+  tool: 4
+  ingredients: |
+    Moai Melon
+    Goblin Strawberry
+    Vanilla
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 4000
+  dissp: 400
+  maxhp: 180
+  maxsp: 18
+  atk: 20
+  matk: 20
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: 1.0%
+  mpen: 1.0%
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/X44GuHY.jpg
+  id: 7800
+  name: Vatican Bread
+  tool: 4
+  ingredients: |
+    Savage Meat
+    Gold Pumpkin
+    Vanilla
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 4000
+  dissp: 400
+  maxhp: 180
+  maxsp: 18
+  atk: '-'
+  matk: '-'
+  def: 20
+  mdef: 20
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: 1.0%
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/tyBokpY.jpg
+  id: 7825
+  name: Ancient Ice Honey
+  tool: 4
+  ingredients: |
+    Moai Melon
+    Bigfoot Pineapple
+    Vanilla
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 4000
+  dissp: 400
+  maxhp: 180
+  maxsp: 18
+  atk: 20
+  matk: 20
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: 1.0%
+  pvp: '-'
+
+- url: https://i.imgur.com/LQscQLM.jpg
+  id: 7850
+  name: Yummy Cake
+  tool: 4
+  ingredients: |
+    Bigfoot Pineapple
+    Smokie Grape
+    Cream
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 5000
+  dissp: 500
+  maxhp: 216
+  maxsp: 21
+  atk: '-'
+  matk: 24
+  def: 24
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: 1.25%
+  mpen: 1.25%
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/7mVQrb7.jpg
+  id: 7875
+  name: Yummy Tea
+  tool: 4
+  ingredients: |
+    Moai Melon
+    Bigfoot Pineapple
+    Milk
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 5000
+  dissp: 500
+  maxhp: 216
+  maxsp: 21
+  atk: '-'
+  matk: '-'
+  def: 24
+  mdef: 24
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: 1.25%
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/AyWlumU.jpg
+  id: 7900
+  name: Yummy Cookie
+  tool: 4
+  ingredients: |
+    Moai Melon
+    Poring Apple
+    Cream
+  duration: 192
+  special: '-'
+  speciald: '-'
+  dishp: 5000
+  dissp: 500
+  maxhp: 216
+  maxsp: 21
+  atk: 24
+  matk: 24
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: 1.25%
+  pvp: '-'
+
+- url: https://i.imgur.com/T35cdlD.jpg
+  id: 7925
+  name: Magic Bread
+  tool: 4
+  ingredients: |
+    Lunatic meat
+    Goblin Strawberry
+    Flour
+    Salt
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 6000
+  dissp: 600
+  maxhp: 300
+  maxsp: 30
+  atk: '-'
+  matk: 30
+  def: 30
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: 1.5%
+  mpen: 1.5%
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/clGNDEs.jpg
+  id: 7950
+  name: Magic Ice Cream
+  tool: 4
+  ingredients: |
+    Poring Apple
+    Goblin Strawberry
+    Sugar
+    Milk
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 6000
+  dissp: 600
+  maxhp: 300
+  maxsp: 30
+  atk: '-'
+  matk: '-'
+  def: 30
+  mdef: 30
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: 1.5%
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/7NyD0Bs.jpg
+  id: 7975
+  name: Magic Cookie
+  tool: 4
+  ingredients: |
+    Yoyo Banana
+    Smokie Grape
+    Sugar
+    Milk
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 6000
+  dissp: 600
+  maxhp: 300
+  maxsp: 30
+  atk: 30
+  matk: 30
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: 1.5%
+  pvp: '-'
+
+- url: https://i.imgur.com/mCVTOep.jpg
+  id: 8000
+  name: Noble Black Tea
+  tool: 4
+  ingredients: |
+    Goblin Strawberry
+    Poring Apple
+    Sugar
+    Vanilla
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 7000
+  dissp: 700
+  maxhp: 360
+  maxsp: 36
+  atk: '-'
+  matk: 32
+  def: 32
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: 1.7500000000000002%
+  mpen: 1.7500000000000002%
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/mBt8waV.jpg
+  id: 8025
+  name: Merchant City's Cake
+  tool: 4
+  ingredients: |
+    Yoyo Banana
+    Smokie Grape
+    Milk
+    Vanilla
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 7000
+  dissp: 700
+  maxhp: 360
+  maxsp: 36
+  atk: '-'
+  matk: '-'
+  def: 32
+  mdef: 32
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: 1.7500000000000002%
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/fLpbEHe.jpg
+  id: 8050
+  name: Bigfoot Forest Cookie
+  tool: 4
+  ingredients: |
+    Goblin Strawberry
+    Yoyo Banana
+    Vanilla
+    Flour
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 7000
+  dissp: 700
+  maxhp: 360
+  maxsp: 36
+  atk: 32
+  matk: 32
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: 1.7500000000000002%
+  pvp: '-'
+
+- url: https://i.imgur.com/HcgrVXl.jpg
+  id: 8075
+  name: Summer Star
+  tool: 4
+  ingredients: |
+    Moai Melon
+    Goblin Strawberry
+    Cream
+    Cheese
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 8000
+  dissp: 800
+  maxhp: 420
+  maxsp: 42
+  atk: '-'
+  matk: 36
+  def: 36
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: 2.0%
+  mpen: 2.0%
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/aFerIy0.jpg
+  id: 8100
+  name: Princess' Afternoon Tea
+  tool: 4
+  ingredients: |
+    Moai Melon
+    Bigfoot Pineapple
+    Sugar
+    Cheese
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 8000
+  dissp: 800
+  maxhp: 420
+  maxsp: 42
+  atk: '-'
+  matk: '-'
+  def: 36
+  mdef: 36
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: 2.0%
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/xbbyqKG.jpg
+  id: 8125
+  name: Gatler's Palace
+  tool: 4
+  ingredients: |
+    Bigfoot Pineapple
+    Yoyo Banana
+    Cream
+    Cheese
+  duration: 208
+  special: '-'
+  speciald: '-'
+  dishp: 8000
+  dissp: 800
+  maxhp: 420
+  maxsp: 42
+  atk: 36
+  matk: 36
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: 2.0%
+  pvp: '-'
+
+- url: https://i.imgur.com/JruHqaQ.jpg
+  id: 8150
+  name: Prontera Royal juice
+  tool: 4
+  ingredients: |
+    Moai Melon
+    Yoyo Banana
+    Smokie Grape
+    Cream
+    Cheese
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 9000
+  dissp: 900
+  maxhp: 500
+  maxsp: 50
+  atk: '-'
+  matk: 38
+  def: 38
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: 2.25%
+  mpen: 2.25%
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/EPdpZf8.jpg
+  id: 8175
+  name: Prontera Royal Cookie
+  tool: 4
+  ingredients: |
+    Moai Melon
+    Bigfoot Pineapple
+    Poring Apple
+    Cream
+    Cheese
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 9000
+  dissp: 900
+  maxhp: 500
+  maxsp: 50
+  atk: '-'
+  matk: '-'
+  def: 38
+  mdef: 38
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: 2.25%
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/yzfvC6Y.jpg
+  id: 8200
+  name: Prontera Royal Ice Cream
+  tool: 4
+  ingredients: |
+    Bigfoot Pineapple
+    Goblin Strawberry
+    Poring Apple
+    Cream
+    Cheese
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 9000
+  dissp: 900
+  maxhp: 500
+  maxsp: 50
+  atk: 38
+  matk: 38
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: 2.25%
+  pvp: '-'
+
+- url: https://i.imgur.com/8Trbk7x.jpg
+  id: 8225
+  name: Original Will Juice
+  tool: 4
+  ingredients: |
+    Moai Melon
+    Bigfoot Pineapple
+    Goblin Strawberry
+    Yoyo Banana
+    Rainbow Powder
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 10000
+  dissp: 1000
+  maxhp: 600
+  maxsp: 60
+  atk: '-'
+  matk: 40
+  def: 40
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: 2.5%
+  mpen: 2.5%
+  nboss: '-'
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/3LGJWFm.jpg
+  id: 8250
+  name: Original Will Cookies
+  tool: 4
+  ingredients: |
+    Moai Melon
+    Bigfoot Pineapple
+    Goblin Strawberry
+    Yoyo Banana
+    Miso Powder
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 10000
+  dissp: 1000
+  maxhp: 600
+  maxsp: 60
+  atk: '-'
+  matk: '-'
+  def: 40
+  mdef: 40
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: 2.5%
+  boss: '-'
+  pvp: '-'
+
+- url: https://i.imgur.com/Cxhwiaq.jpg
+  id: 8275
+  name: Original Will Ice Cream
+  tool: 4
+  ingredients: |
+    Moai Melon
+    Bigfoot Pineapple
+    Goblin Strawberry
+    Miso Powder
+    Rainbow Powder
+  duration: 240
+  special: '-'
+  speciald: '-'
+  dishp: 10000
+  dissp: 1000
+  maxhp: 600
+  maxsp: 60
+  atk: 40
+  matk: 40
+  def: '-'
+  mdef: '-'
+  aspd: '-'
+  mspd: '-'
+  cd: '-'
+  ignore: '-'
+  pen: '-'
+  mpen: '-'
+  nboss: '-'
+  boss: 2.5%
+  pvp: '-'
